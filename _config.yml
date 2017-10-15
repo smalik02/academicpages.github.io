@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shehryar Malik / Insight into CS & Finance"
+title                    : "Shehryar Malik"
 title_separator          : "-"
 name                     : &name "Shehryar Malik"
 description              : &description "Tufts University '19 | Computer Science & Quantitative Economics"
