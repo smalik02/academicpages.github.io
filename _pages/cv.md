@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* __GPA: 3.75__
+* __GPA: 3.70__
 * B.S. in Computer Science, Tufts University, 2019 (expected)
 * B.S. in Quantitative Economics, Tufts University, 2019 (expected)
 * Washtenaw International High School, Ypsilanti, MI 2015
