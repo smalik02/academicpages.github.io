@@ -1,3 +1,9 @@
+---
+title: "YouRun"
+excerpt: "Safe, Scenic, & Presonalized Running App"
+collection: portfolio
+---
+
 ### Purpose: 
 * To create safe, scenic, and personalized routes for runners
 
