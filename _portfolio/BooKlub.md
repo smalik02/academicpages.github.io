@@ -1,3 +1,9 @@
+---
+title: "BooKlub"
+excerpt: "Social & Subscription Model for Book Readers!"
+collection: portfolio
+---
+
 ### BooKlub
 Github Link: [BooKlub Wiki](https://github.com/smalik02/BookClub/wiki "BooKlub Wiki")
 
