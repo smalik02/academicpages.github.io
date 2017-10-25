@@ -1,6 +1,6 @@
 ---
 title: "BooKlub"
-excerpt: "Social & Subscription Model for Book Readers!"
+excerpt: "Social & Subscription based App for Book Readers!"
 collection: portfolio
 ---
 
